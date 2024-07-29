@@ -1,0 +1,74 @@
+.ab {
+    background: url(https://www.universityofcalifornia.edu/sites/default/files/styles/feature_banner_image/public/2022-01/students-ucla.jpg?h=ae2f54e5&itok=FAYlivMO);
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+.bc {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: "prague";
+    letter-spacing: 3px;
+}
+
+.cd {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.de {
+    background: url(https://sustainabilityreport.ucop.edu/2023/wp-content/uploads/sites/5/2023/11/UC_2023_Sustainability_cover2.jpg);
+    width: 100%;
+}
+
+.aab {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.fg {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+    color: white;
+}
+
+.image {
+    width: 90%;
+}
+
+.gh {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: "prague";
+    letter-spacing: 3px;
+}
+
+.foot p {
+    line-height: 30px;
+    word-spacing: 1px;
+    font-size: 18px;
+    color: aliceblue;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
+.aaab {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
